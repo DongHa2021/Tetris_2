@@ -1,0 +1,9 @@
+
+치트키 목록입니다 !! 대소문자에 유의하세요
+
+P1 Bomb  : player1 큰폭탄 1개추가
+P2 Bomb  : player2 큰폭탄 2개추가
+P1 sBomb  : player1 작은폭탄 1개추가
+P2 sBomb  : player2 작은폭탄 2개추가
+Speed down  : 속도 0.1초 감소
+Speed up  : 속도 0.1초 증가
